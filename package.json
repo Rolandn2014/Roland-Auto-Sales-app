@@ -1,0 +1,22 @@
+{
+  "name": "roland-auto-sales-app",
+  "version": "1.0.0",
+  "description": "We are here to give you the best deals on cars. Come visit us",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rolandn2014/Roland-Auto-Sales-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rolandn2014/Roland-Auto-Sales-app/issues"
+  },
+  "homepage": "https://github.com/Rolandn2014/Roland-Auto-Sales-app#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
